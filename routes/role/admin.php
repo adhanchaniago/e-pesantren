@@ -3,7 +3,7 @@
 Route::group([
         'prefix'    => 'admin',
         'namespace' => 'Admin',
-        'as'        => 'admin,.'
+        'as'        => 'admin.'
     ], 
     function () {
 

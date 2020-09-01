@@ -3,7 +3,7 @@
 Route::group([
         'prefix'    => '',
         'namespace' => 'Client',
-        'as'        => 'client.'
+        'as'        => 'client.',
     ], 
     function () {
 
